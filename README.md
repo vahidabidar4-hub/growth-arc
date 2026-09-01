@@ -1,0 +1,1195 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://vahidabidar.ir/#org",
+      "name": "Growth Arc",
+      "url": "https://vahidabidar.ir/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://vahidabidar.ir/logo.svg",
+        "width": 512,
+        "height": 512
+      },
+      "slogan": "Data Before Decisions.",
+      "description": "چارچوب داده‌محور رشد تبدیل؛ تشخیص، سئو، تجربه کاربری و بازطراحی بر پایه شواهد.",
+      "sameAs": [
+        "https://x.com/growtharc",
+        "https://www.linkedin.com/company/growtharc",
+        "https://www.instagram.com/growtharc",
+        "https://t.me/growtharc"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vahidabidar.ir/#person",
+      "name": "وحید آبیدر",
+      "url": "https://vahidabidar.ir/about/",
+      "jobTitle": "مهندس چندکاره و بنیان‌گذار Growth Arc",
+      "description": "مهندس کامپیوتر با تجربه در دیجیتال مارکتینگ، سئو، UX و کدنویسی؛ بنیان‌گذار سیستم Growth Arc",
+      "worksFor": {
+        "@id": "https://vahidabidar.ir/#org"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://vahidabidar.ir/#website",
+      "url": "https://vahidabidar.ir/",
+      "name": "Growth Arc",
+      "inLanguage": "fa",
+      "publisher": {
+        "@id": "https://vahidabidar.ir/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://vahidabidar.ir/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://vahidabidar.ir/#page",
+      "url": "https://vahidabidar.ir/",
+      "name": "تحلیل مسیر تبدیل | 3 لایه نشتی که فروش را می‌بلعند — Growth Arc",
+      "headline": "تحلیل مسیر تبدیل: چرا با وجود ترافیک بالا، نرخ تبدیل رشد نمی‌کند؟",
+      "description": "تحلیل مسیر تبدیل با دادهٔ واقعی: سه لایه پنهان نشت درآمد را پیدا می‌کنیم و مسیر درمان را مشخص می‌کنیم.",
+      "inLanguage": "fa",
+      "isPartOf": {
+        "@id": "https://vahidabidar.ir/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://vahidabidar.ir/#crumb"
+      },
+      "datePublished": "2025-01-10",
+      "dateModified": "2026-08-28",
+      "primaryImageOfPage": {
+        "@id": "https://vahidabidar.ir/#hero-image"
+      },
+      "about": {
+        "@id": "https://vahidabidar.ir/#org"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://vahidabidar.ir/#crumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "صفحه اصلی",
+          "item": "https://vahidabidar.ir/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://vahidabidar.ir/#lab",
+      "name": "تحلیل مسیر تبدیل — Analysis Lab",
+      "provider": {
+        "@id": "https://vahidabidar.ir/#org"
+      },
+      "url": "https://vahidabidar.ir/digital-lab/",
+      "description": "تحلیل مسیر تبدیل: تشخیص دقیق شکاف‌های قیف تبدیل + نقشه راه اقدامات اولویت‌بندی‌شده",
+      "areaServed": "IR",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "IRR",
+        "priceValidUntil": "2027-12-31",
+        "availability": "https://schema.org/InStock",
+        "description": "تحلیل یک‌روزه رایگان"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://vahidabidar.ir/#hero-image",
+      "name": "تحلیل مسیر تبدیل — قیف نشتی و قوس رشد",
+      "contentUrl": "https://vahidabidar.ir/og-cover.jpg",
+      "width": "1200",
+      "height": "630",
+      "inLanguage": "fa"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://vahidabidar.ir/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "برای شروع تحلیل مسیر تبدیل، به چه داده‌هایی نیاز دارید؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "دسترسی مشاهده‌ای به Google Analytics و Search Console کافی است؛ اگر ندارید، با داده‌های موجود شروع می‌کنیم"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ادامه همکاری پس از تحلیل مسیر تبدیل چقدر هزینه دارد؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "نقشه راه رایگان است؛ اجرا پروژه‌ای تعریف می‌شود و ROI تخمینی آن قبل از امضا اعلام می‌شود"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "اولین نتیجه کی دیده می‌شود؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "اولین تغییر در داده‌ها هفته دوم و رشد معنادار در ۶۰ تا ۹۰ روز."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "چرا ظرفیت هر ماه فقط 3 پرونده است؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "هر پرونده یک روز کامل تمرکز عمیق می‌گیرد؛ عمق تشخیص به زمان نیاز دارد"
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<style>
+:root {
+  --bg: #0B1512;
+  --panel: #12211C;
+  --panel-2: #0E1A16;
+  --text-1: #E9F2EE;
+  --text-2: #9AB0A8;
+  --accent: #E8A33D;
+  --accent-2: #F2B85A;
+  --link: #4CC9B0;
+  --ok: #34D399;
+  --bad: #EF6461;
+  --line: #22382F;
+  --checker: rgba(76, 201, 176, .06);
+  --shadow: 0 2px 16px rgba(0, 0, 0, .35);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, .5);
+  --header-bg: rgba(11, 21, 18, .92);
+  --radius: 12px;
+  --radius-sm: 8px;
+  --font: "Vazirmatn Variable", "Inter Variable", Tahoma, sans-serif;
+  --font-latin: "Inter Variable", "Vazirmatn Variable", sans-serif;
+  --ease: cubic-bezier(.2, .7, .3, 1);
+}
+[data-theme="light"] {
+  --bg: #F6FAF8;
+  --panel: #FFF;
+  --panel-2: #EDF4F1;
+  --text-1: #12211C;
+  --text-2: #5A6B64;
+  --accent: #B87A1A;
+  --accent-2: #C98A24;
+  --link: #0E8A72;
+  --ok: #178A5B;
+  --bad: #C4433B;
+  --line: #D9E5E0;
+  --checker: rgba(18, 33, 28, .07);
+  --shadow: 0 2px 14px rgba(18, 33, 28, .08);
+  --shadow-lg: 0 10px 28px rgba(18, 33, 28, .12);
+  --header-bg: rgba(246, 250, 248, .94);
+}
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  font-family: var(--font);
+  font-display: swap;
+  color: var(--text-1);
+  font-size: 17px;
+  line-height: 1.95;
+  font-weight: 400;
+  overflow-x: hidden;
+  text-align: center;
+  background-color: var(--bg);
+  background-image: conic-gradient(var(--checker) 25%, transparent 0 50%, var(--checker) 0 75%, transparent 0);
+  background-size: 88px 88px;
+  transition: background-color .3s ease, color .3s ease;
+  -webkit-font-smoothing: antialiased;
+}
+body.menu-open { overflow: hidden; }
+img, svg { max-width: 100%; display: block; margin-inline: auto; height: auto; }
+a { color: var(--link); text-decoration: none; }
+ul { list-style: none; }
+button { font-family: inherit; cursor: pointer; border: none; background: none; touch-action: manipulation; }
+::selection { background: var(--accent); color: #0B1512; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px; }
+.container { max-width: 1080px; margin-inline: auto; padding-inline: 24px; }
+.section { padding: 72px 0; border-bottom: 1px solid var(--line); scroll-margin-top: 90px; content-visibility: auto; contain-intrinsic-size: auto 520px; }
+.section:last-of-type { border-bottom: none; }
+.hero { content-visibility: auto; contain-intrinsic-size: auto 560px; position: relative; overflow: hidden; padding: 140px 0 52px; border-bottom: 1px solid var(--line); background: radial-gradient(ellipse 1100px 560px at 50% -18%, rgba(76, 201, 176, .09), transparent 70%), radial-gradient(ellipse 820px 460px at 82% 14%, rgba(232, 163, 61, .07), transparent 70%), conic-gradient(var(--checker) 25%, transparent 0 50%, var(--checker) 0 75%, transparent 0) 0 0 / 88px 88px, var(--bg); }
+h1 { font-size: clamp(26px, 4.2vw, 40px); line-height: 1.3; font-weight: 800; letter-spacing: -.02em; text-align: center; }
+h2 { font-size: clamp(20px, 3vw, 30px); line-height: 1.35; font-weight: 800; text-align: center; letter-spacing: -.02em; }
+h3 { font-size: clamp(16px, 1.7vw, 19px); line-height: 1.45; font-weight: 700; text-align: center; letter-spacing: -.015em; }
+p, li, figcaption, label { text-align: center; }
+p { max-width: 62ch; margin-inline: auto; }
+small { font-size: 13px; }
+.hl { color: var(--text-1); font-weight: 700; padding-inline: 3px; border-radius: 3px; background: linear-gradient(180deg, transparent 62%, rgba(232, 163, 61, .28) 62%); }
+[data-theme="light"] .hl { background: linear-gradient(180deg, transparent 62%, rgba(184, 122, 26, .2) 62%); }
+.kw-a { color: var(--accent); }
+.kw-l { color: var(--link); }
+.eyebrow { display: inline-flex; align-items: center; justify-content: center; gap: 10px; font-size: 12px; font-weight: 700; letter-spacing: .12em; color: var(--accent); text-transform: uppercase; }
+.eyebrow::before, .eyebrow::after { content: ""; width: 22px; height: 1px; background: var(--accent); opacity: .5; }
+.sec-head { display: flex; flex-direction: column; align-items: center; gap: 14px; margin-bottom: 32px; }
+.subline { color: var(--text-1); font-weight: 600; font-size: clamp(17px, 2.2vw, 21px); line-height: 1.7; max-width: 52ch; margin-inline: auto; letter-spacing: -.01em; padding-top: 4px; }
+.latin { font-family: var(--font-latin); direction: ltr; display: inline-block; unicode-bidi: isolate; }
+.toc { max-width: 640px; margin: 26px auto 0; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; box-shadow: var(--shadow); }
+.toc-title { font-weight: 800; font-size: 14px; color: var(--text-1); margin-bottom: 10px; }
+.toc ul { display: flex; flex-direction: column; gap: 6px; }
+.toc a { color: var(--link); font-size: 13px; font-weight: 600; }
+.toc a:hover { color: var(--accent); }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 48px; padding: 12px 28px; border-radius: var(--radius-sm); font-size: 15px; font-weight: 700; border: 1px solid transparent; transition: transform .15s ease, box-shadow .25s ease, background .25s ease; will-change: transform; }
+.btn:active { transform: translateY(1px); }
+.btn-accent { background: var(--accent); color: #0B1512; box-shadow: var(--shadow); }
+.btn-accent:hover { background: var(--accent-2); box-shadow: var(--shadow-lg); }
+.btn-accent:disabled { opacity: .6; cursor: not-allowed; }
+.btn-ghost { background: transparent; color: var(--link); border-color: var(--line); }
+.btn-ghost:hover { border-color: var(--link); background: rgba(76, 201, 176, .08); }
+.link-slide { position: relative; font-weight: 600; }
+.link-slide::after { content: ""; position: absolute; left: 0; right: 0; bottom: -3px; height: 2px; background: var(--link); transform: scaleX(0); transform-origin: right; transition: transform .3s ease; }
+.link-slide:hover::after, .link-slide:focus-visible::after { transform: scaleX(1); transform-origin: left; }
+#scroll-progress { position: fixed; top: 0; right: 0; height: 3px; width: 100%; z-index: 1000; background: var(--accent); transform: scaleX(0); transform-origin: right; pointer-events: none; will-change: transform; }
+.skip-link { position: absolute; top: -60px; right: 50%; transform: translateX(50%); background: var(--accent); color: #0B1512; padding: 10px 16px; border-radius: 0 0 8px 8px; z-index: 1200; transition: top .2s; }
+.skip-link:focus { top: 0; }
+#site-header { position: fixed; top: 0; right: 0; left: 0; z-index: 900; background: var(--header-bg); border-bottom: 1px solid var(--line); transition: box-shadow .3s ease; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+#site-header.scrolled { box-shadow: var(--shadow); }
+.hgrid { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; grid-template-areas: "cta nav logo"; min-height: 66px; gap: 16px; }
+.brand { grid-area: logo; justify-self: end; display: inline-flex; align-items: center; gap: 9px; color: var(--text-1); font-family: var(--font-latin); font-weight: 800; font-size: 19px; }
+.brand svg { width: 28px; height: 28px; overflow: visible; }
+.brand .lg-dot { transform-box: fill-box; transform-origin: center; animation: dotpulse 4s ease-in-out infinite; }
+@keyframes dotpulse { 0%, 100% { opacity: 1; } 50% { opacity: .4; } }
+.main-nav { grid-area: nav; justify-self: center; }
+.main-nav ul { display: flex; justify-content: center; gap: 16px; }
+.main-nav a { color: var(--text-2); font-weight: 600; font-size: 13px; padding: 8px 2px; transition: color .25s; }
+.main-nav a:hover { color: var(--text-1); }
+.main-nav a[aria-current="page"] { color: var(--text-1); }
+.main-nav a[aria-current="page"]::after { content: ""; display: block; width: 100%; height: 2px; background: var(--accent); border-radius: 2px; margin-top: 2px; }
+.h-actions { grid-area: cta; justify-self: start; display: flex; align-items: center; gap: 10px; }
+.header-cta { min-height: 42px; padding: 9px 16px; font-size: 13px; }
+#theme-toggle { width: 42px; height: 42px; border-radius: 50%; border: 1px solid var(--line); color: var(--text-1); display: inline-flex; align-items: center; justify-content: center; transition: border-color .25s, background .25s; }
+#theme-toggle:hover { border-color: var(--accent); background: rgba(232, 163, 61, .1); }
+#theme-toggle .sun { display: none; }
+[data-theme="light"] #theme-toggle .sun { display: block; }
+[data-theme="light"] #theme-toggle .moon { display: none; }
+.burger { display: none; width: 42px; height: 42px; flex-direction: column; justify-content: center; align-items: center; gap: 5px; border: 1px solid var(--line); border-radius: 8px; cursor: pointer; background: transparent; }
+.burger span { display: block; width: 18px; height: 2px; background: var(--text-1); border-radius: 2px; transition: transform .3s ease, opacity .3s ease; }
+.menu-backdrop { position: fixed; inset: 0; background: rgba(0, 0, 0, .5); opacity: 0; pointer-events: none; transition: opacity .3s ease; z-index: 899; backdrop-filter: blur(2px); -webkit-backdrop-filter: blur(2px); }
+.menu-backdrop.active { opacity: 1; pointer-events: auto; }
+.hero-bg { position: absolute; inset: 0; z-index: 0; pointer-events: none; }
+.hero-glow { position: absolute; top: 6%; left: 50%; width: min(600px, 90vw); height: min(380px, 54vw); transform: translateX(-50%); background: radial-gradient(closest-side, rgba(232, 163, 61, .1), transparent 72%); opacity: .7; }
+.hero-arc { position: absolute; inset: 0; width: 100%; height: 100%; }
+.arc-once { fill: none; stroke-dasharray: 1; stroke-dashoffset: 1; animation: arcdraw 2.5s ease .3s forwards; }
+.arc-a { stroke: rgba(76, 201, 176, .3); stroke-width: 2; }
+.arc-b { stroke: rgba(232, 163, 61, .22); stroke-width: 1.4; animation-delay: 1s; }
+@keyframes arcdraw { to { stroke-dashoffset: 0; } }
+.hero .container { position: relative; z-index: 1; }
+.hero-copy { display: flex; flex-direction: column; align-items: center; gap: 18px; max-width: 780px; margin-inline: auto; }
+.hero .lead { color: var(--text-2); font-size: 16px; line-height: 2; max-width: 56ch; }
+.cta-wrap { display: flex; flex-direction: column; align-items: center; gap: 8px; margin-top: 4px; }
+.cta-note { color: var(--text-2); font-size: 13px; }
+.paths-strip { padding: 20px 0; border-bottom: 1px solid var(--line); background: var(--panel-2); }
+.paths-intro { font-size: 13px; color: var(--text-2); margin-bottom: 10px; max-width: 100%; }
+.paths-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px 24px; }
+.plink { font-size: 14px; font-weight: 700; color: var(--link); display: inline-flex; align-items: center; gap: 6px; transition: color .25s; }
+.plink .pl-ic { font-size: 15px; }
+.plink::after { content: "←"; font-size: 12px; color: var(--accent); opacity: 0; transform: translateX(5px); transition: .25s; }
+.plink:hover { color: var(--text-1); }
+.plink:hover::after { opacity: 1; transform: translateX(0); }
+.signal-inline { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 4px; color: var(--text-2); font-size: 12.5px; font-weight: 500; margin-bottom: 12px; }
+.signal-inline .si-item { display: inline-flex; align-items: center; gap: 6px; padding: 3px 2px; }
+.signal-inline .si-ic { width: 13px; height: 13px; flex-shrink: 0; color: var(--accent); display: inline-block; vertical-align: middle; }
+.signal-inline .si-item:nth-child(even) .si-ic { color: var(--link); }
+.signal-inline .si-dot { display: inline-block; width: 3px; height: 3px; border-radius: 50%; background: var(--line); margin: 0 7px; flex-shrink: 0; }
+figure.viz { margin: 32px auto 0; max-width: 640px; }
+.hero-viz { margin: 22px auto 0; max-width: 760px; }
+.viz-panel { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 16px 18px 18px; overflow: hidden; contain: layout style paint; }
+.viz-panel::before { content: ""; position: absolute; inset: 0; background-image: radial-gradient(var(--checker) 1.2px, transparent 1.3px); background-size: 24px 24px; opacity: .6; pointer-events: none; }
+.corner { position: absolute; width: 14px; height: 14px; opacity: .85; pointer-events: none; z-index: 2; }
+.c-tl { top: 8px; left: 8px; border-top: 2px solid var(--accent); border-left: 2px solid var(--accent); }
+.c-tr { top: 8px; right: 8px; border-top: 2px solid var(--accent); border-right: 2px solid var(--accent); }
+.c-bl { bottom: 8px; left: 8px; border-bottom: 2px solid var(--accent); border-left: 2px solid var(--accent); }
+.c-br { bottom: 8px; right: 8px; border-bottom: 2px solid var(--accent); border-right: 2px solid var(--accent); }
+.viz-bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 14px; position: relative; z-index: 1; }
+.w-dots { display: flex; gap: 5px; }
+.w-dots i { width: 9px; height: 9px; border-radius: 50%; }
+.w-dots i:nth-child(1) { background: var(--bad); }
+.w-dots i:nth-child(2) { background: #F2B85A; }
+.w-dots i:nth-child(3) { background: var(--ok); }
+.viz-title { font-size: 12px; font-weight: 800; color: var(--accent); }
+.viz-body { position: relative; z-index: 1; }
+.viz-body img { display: block; width: 100%; height: auto; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: 8px; border: 1px solid var(--line); box-shadow: var(--shadow); background: var(--panel); }
+svg text { direction: ltr; }
+.legend { display: flex; justify-content: center; flex-wrap: wrap; gap: 9px 16px; margin-top: 14px; position: relative; z-index: 1; }
+.legend .lg { display: inline-flex; align-items: center; gap: 7px; font-size: 12px; color: var(--text-2); }
+.legend .lg i { width: 16px; height: 4px; border-radius: 2px; display: inline-block; }
+.legend .lg .dotc { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+figure.viz figcaption { color: var(--text-2); font-size: 12.5px; margin-top: 14px; line-height: 1.7; }
+.funnel { display: flex; flex-direction: column; align-items: center; padding: 6px 0 2px; }
+.f-bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; height: 46px; margin: 0 auto; border-radius: 10px; padding: 0 16px; color: var(--text-1); font-size: 13px; font-weight: 700; border: 1px solid rgba(76, 201, 176, .35); background: linear-gradient(90deg, rgba(76, 201, 176, .16), rgba(76, 201, 176, .05)); width: max(var(--w), 170px); transform: scaleX(0); transition: transform 1s var(--ease) .2s; }
+.in-view .f-bar { transform: scaleX(1); }
+.f-bar b { font-size: 13px; color: var(--link); font-weight: 800; }
+.f-bar.final { background: linear-gradient(90deg, rgba(232, 163, 61, .3), rgba(232, 163, 61, .12)); border-color: var(--accent); }
+.f-bar.final b { color: var(--accent); }
+.f-drop { font-size: 11px; color: var(--text-2); font-weight: 700; padding: 6px 0; display: flex; align-items: center; gap: 6px; }
+.f-drop::before, .f-drop::after { content: ""; width: 16px; height: 1px; background: var(--line); }
+.f-drop.leak { color: var(--bad); }
+.f-drop.leak::before, .f-drop.leak::after { background: rgba(239, 100, 97, .4); }
+.cards-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.cards-5 { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; }
+.cards-5 .card { flex: 1 1 300px; max-width: 360px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 9px; align-items: center; text-align: center; transition: transform .3s ease, border-color .3s ease; content-visibility: auto; contain-intrinsic-size: auto 200px; }
+.card:hover { transform: translateY(-4px); border-color: var(--accent); }
+.card p { color: var(--text-2); font-size: 13.5px; line-height: 1.8; }
+.card .num { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: rgba(232, 163, 61, .14); color: var(--accent); font-weight: 800; font-size: 14px; flex-shrink: 0; }
+.threshold { margin-top: 4px; display: inline-flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--bad); border: 1px dashed rgba(239, 100, 97, .45); background: rgba(239, 100, 97, .07); border-radius: 999px; padding: 4px 12px; font-weight: 600; }
+.sign { width: 100%; background: var(--panel-2); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; font-size: 12px; color: var(--text-2); text-align: center; line-height: 1.8; }
+.sign b { display: block; color: var(--link); font-size: 10.5px; letter-spacing: .06em; margin-bottom: 3px; font-weight: 800; text-align: center; }
+.cost { color: var(--bad); font-size: 12.5px; font-weight: 600; border-top: 1px dashed var(--line); padding-top: 8px; width: 100%; }
+.mods { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; max-width: 820px; margin: 30px auto 0; }
+.mod { display: flex; align-items: center; justify-content: center; gap: 12px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; box-shadow: var(--shadow); text-align: center; transition: .3s; contain: layout style paint; }
+.mod:hover { border-color: var(--accent); transform: translateY(-2px); }
+.mod .m-ic { font-size: 20px; width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: var(--panel-2); border: 1px solid var(--line); border-radius: 10px; flex-shrink: 0; }
+.mod .m-body { flex: 1; min-width: 0; }
+.mod h3 { font-size: 15px; text-align: center; margin: 0; }
+.mod p { font-size: 12px; color: var(--text-2); margin: 2px 0 0; text-align: center; line-height: 1.7; }
+.mod .m-dur { font-size: 11px; font-weight: 700; color: var(--link); background: rgba(76, 201, 176, .1); padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+.mod.always { border-color: var(--accent); background: linear-gradient(160deg, rgba(232, 163, 61, .08), var(--panel) 60%); }
+.loop { display: flex; align-items: stretch; justify-content: center; gap: 8px; flex-wrap: wrap; margin: 34px auto 0; max-width: 780px; }
+.loop-node { display: flex; flex-direction: column; align-items: center; gap: 8px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; min-width: 130px; box-shadow: var(--shadow); transition: .3s; contain: layout style paint; }
+.loop-node:hover { border-color: var(--accent); transform: translateY(-3px); }
+.loop-node .ln-num { width: 32px; height: 32px; border-radius: 50%; background: rgba(232, 163, 61, .14); color: var(--accent); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 14px; }
+.loop-node .ln-t { font-size: 13.5px; font-weight: 700; }
+.loop-arrow { display: flex; align-items: center; color: var(--accent); font-size: 20px; opacity: .7; }
+.loop-back { margin-top: 16px; font-size: 12.5px; color: var(--link); font-weight: 600; }
+.sys-principles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; max-width: 820px; margin: 34px auto 0; }
+.sys-p { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 16px; box-shadow: var(--shadow); text-align: center; display: flex; flex-direction: column; align-items: center; gap: 8px; transition: .3s; content-visibility: auto; contain-intrinsic-size: auto 180px; }
+.sys-p:hover { transform: translateY(-3px); border-color: var(--accent); }
+.sys-p .sp-ic { font-size: 22px; }
+.sys-p h3 { font-size: 16px; }
+.sys-p p { font-size: 12.5px; color: var(--text-2); line-height: 1.8; }
+.brand-st { margin-top: 38px; text-align: center; }
+.brand-st .en { font-size: 12px; letter-spacing: .3em; color: var(--text-2); font-weight: 700; text-transform: uppercase; font-family: var(--font-latin); }
+.brand-st .fa { font-size: clamp(19px, 2.8vw, 27px); font-weight: 900; margin-top: 6px; background: linear-gradient(120deg, var(--link), var(--accent), var(--ok)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.stats-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 30px; }
+.stat { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 14px; text-align: center; box-shadow: var(--shadow); display: flex; flex-direction: column; align-items: center; gap: 4px; transition: border-color .3s; content-visibility: auto; contain-intrinsic-size: auto 180px; }
+.stat:hover { border-color: var(--accent); }
+.stat .counter { font-size: 30px; font-weight: 900; color: var(--accent); display: block; line-height: 1.2; }
+.stat small { color: var(--text-2); font-size: 12px; }
+.case-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.case-card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 18px; box-shadow: var(--shadow); text-align: center; display: flex; flex-direction: column; gap: 11px; transition: .3s; content-visibility: auto; contain-intrinsic-size: auto 240px; }
+.case-card:hover { transform: translateY(-4px); border-color: var(--accent); }
+.case-head { display: flex; align-items: center; justify-content: center; gap: 11px; }
+.case-emoji { width: 46px; height: 46px; font-size: 22px; display: flex; align-items: center; justify-content: center; background: var(--panel-2); border: 1px solid var(--line); border-radius: 12px; }
+.case-head h3 { font-size: 16px; text-align: center; }
+.layer-chip { display: inline-block; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 999px; margin-top: 3px; }
+.lc1 { color: var(--bad); background: rgba(239, 100, 97, .12); }
+.lc2 { color: var(--accent); background: rgba(232, 163, 61, .14); }
+.lc3 { color: var(--link); background: rgba(76, 201, 176, .12); }
+.case-bars { display: flex; flex-direction: column; gap: 8px; width: 100%; }
+.cbar-row { display: flex; align-items: center; gap: 9px; }
+.cbar-lbl { min-width: 30px; font-size: 11px; color: var(--text-2); }
+.cbar-track { flex: 1; height: 9px; background: var(--panel-2); border-radius: 999px; overflow: hidden; border: 1px solid var(--line); }
+.cbar-fill { height: 100%; border-radius: 999px; transform: scaleX(0); transform-origin: right; transition: transform 1.2s var(--ease) .3s; }
+.in-view .cbar-before { transform: scaleX(1); background: var(--text-2); opacity: .55; }
+.in-view .cbar-after { transform: scaleX(1); background: linear-gradient(90deg, var(--ok), var(--link)); box-shadow: 0 0 10px rgba(52, 211, 153, .4); }
+.cbar-val { min-width: 48px; font-size: 11.5px; font-weight: 700; }
+.case-change { font-size: 12px; color: var(--text-2); border-top: 1px dashed var(--line); padding-top: 10px; line-height: 1.8; }
+.case-change b { color: var(--text-1); }
+.case-growth .g-num { font-size: 28px; font-weight: 900; color: var(--ok); }
+.case-growth small { display: block; color: var(--text-2); font-size: 11px; }
+.baymard-ref { max-width: 640px; margin: 18px auto 0; font-size: 12.5px; color: var(--text-2); line-height: 1.8; }
+.baymard-ref a { font-weight: 700; border-bottom: 1px dashed var(--link); }
+.quote { max-width: 640px; margin: 34px auto 0; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 30px 26px 22px; position: relative; box-shadow: var(--shadow); content-visibility: auto; contain-intrinsic-size: auto 200px; }
+.quote::before { content: "❝"; position: absolute; top: -20px; left: 50%; transform: translateX(-50%); font-size: 36px; color: var(--accent); background: var(--bg); padding: 0 12px; line-height: 1; }
+.quote p { font-size: 14.5px; color: var(--text-1); line-height: 2; margin-bottom: 10px; }
+.quote .author { font-size: 12px; color: var(--text-2); }
+.fit-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.fit-col { border-radius: var(--radius); padding: 22px 20px; box-shadow: var(--shadow); content-visibility: auto; contain-intrinsic-size: auto 200px; }
+.fit-col.yes { background: var(--panel); border: 1px solid var(--ok); }
+.fit-col.no { background: var(--panel); border: 1px solid var(--bad); }
+.fit-col h3 { font-size: 17px; margin-bottom: 12px; }
+.fit-col li { padding: 8px 0; border-bottom: 1px dashed var(--line); color: var(--text-2); font-size: 13.5px; display: flex; gap: 8px; justify-content: center; text-align: center; }
+.fit-col li:last-child { border-bottom: none; }
+.fit-col li::before { flex-shrink: 0; }
+.fit-col.yes li::before { content: "✅"; }
+.fit-col.no li::before { content: "❌"; }
+.honest { max-width: 620px; margin: 30px auto 0; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; text-align: center; font-size: 14px; color: var(--text-1); box-shadow: var(--shadow); content-visibility: auto; contain-intrinsic-size: auto 100px; }
+.honest b { color: var(--ok); }
+.faq-list { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px; }
+.faq-list details { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; content-visibility: auto; contain-intrinsic-size: auto 60px; }
+.faq-list summary { cursor: pointer; padding: 15px 20px; font-weight: 700; font-size: 14.5px; list-style: none; display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center; transition: background .25s; }
+.faq-list summary::-webkit-details-marker { display: none; }
+.faq-list summary::before { content: "+"; font-size: 18px; color: var(--accent); transition: transform .3s; line-height: 1; }
+.faq-list details[open] summary::before { transform: rotate(45deg); }
+.faq-list summary:hover { background: var(--panel-2); }
+.faq-list .answer { padding: 0 22px 16px; color: var(--text-2); font-size: 13px; text-align: center; max-width: 56ch; margin-inline: auto; line-height: 1.9; }
+.days-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; max-width: 720px; margin: 0 auto; }
+.day-card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 16px; box-shadow: var(--shadow); text-align: center; display: flex; flex-direction: column; align-items: center; gap: 6px; transition: transform .3s; content-visibility: auto; contain-intrinsic-size: auto 120px; }
+.day-card:hover { transform: translateY(-3px); }
+.day-card .tag { color: var(--accent); font-weight: 800; font-size: 13px; }
+.day-card p { color: var(--text-2); font-size: 13px; margin-inline: auto; }
+.output-chip { margin: 24px auto 0; display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: rgba(52, 211, 153, .1); border: 1px solid var(--ok); color: var(--ok); border-radius: 999px; padding: 9px 22px; font-weight: 700; font-size: 13px; }
+#cta-form { max-width: 820px; margin: 32px auto 0; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px 22px; box-shadow: var(--shadow); content-visibility: auto; contain-intrinsic-size: auto 400px; }
+.form-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.field { display: flex; flex-direction: column; align-items: center; gap: 5px; }
+.field label { font-size: 12.5px; font-weight: 600; color: var(--text-2); }
+.field input, .field select { background: var(--panel-2); border: 1px solid var(--line); border-radius: var(--radius-sm); color: var(--text-1); padding: 10px 11px; font-family: inherit; font-size: 14px; min-height: 44px; transition: border-color .25s; width: 100%; text-align: center; -webkit-appearance: none; appearance: none; }
+.field select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%239AB0A8' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: left 12px center; padding-left: 32px; }
+.field input:focus, .field select:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(232, 163, 61, .15); }
+.field input.invalid, .field select.invalid { border-color: var(--bad); }
+.field input:disabled { opacity: .5; cursor: not-allowed; }
+.form-error { color: var(--bad); font-size: 12px; min-height: 16px; text-align: center; }
+.form-submit { grid-column: 1 / -1; display: flex; flex-direction: column; align-items: center; gap: 8px; margin-top: 4px; }
+#form-success { max-width: 820px; margin: 32px auto 0; border: 1px solid var(--ok); border-radius: var(--radius); background: rgba(52, 211, 153, .08); color: var(--ok); padding: 22px; text-align: center; font-weight: 700; }
+.capacity { max-width: max-content; margin: 26px auto 0; display: inline-flex; align-items: center; justify-content: center; gap: 8px; border: 1px solid var(--accent); color: var(--accent); border-radius: 999px; padding: 8px 20px; font-weight: 700; font-size: 13px; }
+.live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); animation: dotpulse 2.5s ease-in-out infinite; }
+.contact-line { margin: 16px auto 0; text-align: center; color: var(--text-2); font-size: 13px; }
+.contact-line .chip { background: var(--panel-2); border: 1px solid var(--line); border-radius: 6px; padding: 2px 8px; font-size: 12px; }
+footer { padding: 44px 0 26px; border-top: 1px solid var(--line); }
+.footer-inner { display: flex; flex-direction: column; align-items: center; gap: 20px; }
+.footer-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
+.footer-links a { color: var(--text-2); font-size: 13px; font-weight: 600; }
+.footer-links a:hover { color: var(--text-1); }
+.news-form { display: flex; gap: 8px; width: min(400px, 100%); justify-content: center; margin-inline: auto; }
+.news-form input { flex: 1; background: var(--panel-2); border: 1px solid var(--line); border-radius: var(--radius-sm); color: var(--text-1); padding: 9px 11px; font-family: inherit; min-height: 42px; text-align: center; font-size: 13px; }
+.news-form input:focus { outline: none; border-color: var(--accent); }
+.socials { display: flex; justify-content: center; gap: 10px; }
+.socials a { width: 38px; height: 38px; border: 1px solid var(--line); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; color: var(--text-2); transition: color .25s, border-color .25s, transform .2s; }
+.socials a:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-2px); }
+.copyright { color: var(--text-2); font-size: 12px; text-align: center; }
+.stroke-ok { stroke: var(--ok); }
+.stroke-mut { stroke: var(--text-2); }
+.stroke-acc { stroke: var(--accent); }
+.stroke-lnk { stroke: var(--link); }
+.fill-ok { fill: var(--ok); }
+.fill-acc { fill: var(--accent); }
+.fill-bad { fill: var(--bad); }
+.fill-lnk { fill: var(--link); }
+.ping { transform-box: fill-box; transform-origin: center; animation: ping 2.6s ease-out infinite; }
+.ping.d1 { animation-delay: .7s; }
+.ping.d2 { animation-delay: 1.4s; }
+@keyframes ping { 0% { transform: scale(.6); opacity: .7; } 80%, 100% { transform: scale(1.9); opacity: 0; } }
+.flowl { stroke-dasharray: 4 10; animation: flowdash 5s linear infinite; }
+@keyframes flowdash { to { stroke-dashoffset: -140; } }
+.draw-once { stroke-dasharray: 1; stroke-dashoffset: 1; transition: stroke-dashoffset 1.6s ease .3s; }
+.in-view .draw-once { stroke-dashoffset: 0; }
+.reveal { opacity: 0; will-change: opacity, transform; }
+.reveal.in-view { opacity: 1; animation: risein .5s cubic-bezier(.2, .7, .3, 1) backwards; }
+@keyframes risein { from { opacity: 0; transform: translateY(10px); } }
+.stagger > *:nth-child(2) { animation-delay: .09s; }
+.stagger > *:nth-child(3) { animation-delay: .18s; }
+.stagger > *:nth-child(4) { animation-delay: .27s; }
+.stagger > *:nth-child(5) { animation-delay: .36s; }
+@media (max-width: 1024px) {
+  .cards-3, .case-grid, .sys-principles { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 768px) {
+  body { font-size: 16px; line-height: 1.8; }
+  .section { padding: 52px 0; }
+  .sec-head { margin-bottom: 26px; }
+  .hero { padding: 118px 0 40px; }
+  .subline { font-size: clamp(16px, 4vw, 20px); }
+  .cards-3, .case-grid, .mods, .fit-grid, .days-grid, .form-grid, .stats-strip, .sys-principles { grid-template-columns: 1fr; }
+  .btn { width: 100%; justify-content: center; min-height: 48px; }
+  .header-cta { display: none; }
+  .burger { display: flex; }
+  .hgrid { grid-template-columns: auto 1fr auto; grid-template-areas: "logo nav cta"; }
+  .brand { justify-self: start; }
+  .h-actions { justify-self: end; }
+  .main-nav { position: absolute; top: 100%; left: 0; right: 0; grid-area: auto; background: var(--header-bg); border-bottom: 1px solid var(--line); max-height: 0; overflow: hidden; transition: max-height .4s ease; z-index: 100; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+  .main-nav.open { max-height: 520px; border-bottom: 1px solid var(--line); }
+  .main-nav ul { flex-direction: column; gap: 0; padding: 12px 24px 20px; }
+  .main-nav a { display: block; padding: 12px 0; border-bottom: 1px dashed var(--line); text-align: center; font-size: 14.5px; }
+  .main-nav a:last-child { border-bottom: none; }
+  .burger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .burger.open span:nth-child(2) { opacity: 0; }
+  .burger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+}
+@media (max-width: 640px) {
+  .loop { gap: 10px; }
+  .loop-arrow { display: none; }
+  .loop-node { min-width: 110px; flex: 1 1 40%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+  .reveal { opacity: 1; }
+  .arc-once { stroke-dashoffset: 0; }
+  .draw-once { stroke-dashoffset: 0; }
+  .f-bar, .cbar-fill { transform: scaleX(1); }
+  .hero-glow { opacity: .7; }
+  .live-dot { animation: none; }
+}
+</style>
+
+<a class="skip-link" href="#main">پرش به محتوای اصلی</a>
+<div id="scroll-progress" aria-hidden="true"></div>
+<div class="menu-backdrop" id="menu-backdrop" aria-hidden="true"></div>
+
+<header id="site-header">
+  <div class="container hgrid">
+    <a class="brand" href="https://vahidabidar.ir/" aria-label="Growth Arc — صفحه اصلی">
+      <svg viewBox="0 0 40 40" aria-hidden="true" width="28" height="28">
+        <path d="M6 32 C 14 30, 24 22, 30 8" fill="none" stroke="#E8A33D" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M24 8 h7 v7" fill="none" stroke="#E8A33D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle class="lg-dot" cx="6" cy="32" r="3" fill="#4CC9B0"></circle>
+      </svg>
+      <span>Growth Arc</span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="منوی اصلی">
+      <ul>
+        <li><a href="https://vahidabidar.ir/" aria-current="page">مادر</a></li>
+        <li><a class="link-slide" href="https://vahidabidar.ir/digital-lab/">لابراتوار</a></li>
+        <li><a class="link-slide" href="https://vahidabidar.ir/seo-authority/">سئو</a></li>
+        <li><a class="link-slide" href="https://vahidabidar.ir/ux-analysis/">تجربه کاربری</a></li>
+        <li><a class="link-slide" href="https://vahidabidar.ir/re-design/">بازطراحی</a></li>
+        <li><a class="link-slide" href="https://vahidabidar.ir/web-design/">طراحی سایت</a></li>
+        <li><a class="link-slide" href="https://vahidabidar.ir/about/">درباره ما</a></li>
+      </ul>
+    </nav>
+    <div class="h-actions">
+      <a class="btn btn-accent header-cta" href="#final-cta">درخواست تحلیل</a>
+      <button id="theme-toggle" aria-label="تغییر حالت شب/روز" aria-pressed="false">
+        <svg class="moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"></path></svg>
+        <svg class="sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+      </button>
+      <button class="burger" id="burger" aria-label="باز و بسته کردن منو" aria-expanded="false" aria-controls="main-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+<section class="hero" aria-labelledby="page-title">
+  <div class="hero-bg" aria-hidden="true">
+    <div class="hero-glow"></div>
+    <svg class="hero-arc" viewBox="0 0 1200 640" preserveAspectRatio="xMidYMid slice" aria-hidden="true" width="1200" height="640">
+      <path class="arc-once arc-a" pathLength="1" d="M-40 620 C 220 560, 520 400, 760 240 S 1140 50, 1250 -10"></path>
+      <path class="arc-once arc-b" pathLength="1" d="M-60 648 C 240 600, 560 450, 800 300 S 1170 100, 1270 40"></path>
+    </svg>
+  </div>
+  <div class="container">
+    <div class="hero-copy reveal in-view">
+      <span class="eyebrow"><span class="latin">GROWTH ARC</span> · لایهٔ مادر</span>
+      <h1 id="page-title">تحلیل مسیر تبدیل؛ چرا ترافیک بالاست اما <span class="kw-a">فروش</span> نه؟</h1>
+      <p class="subline">تحلیل مسیر تبدیل یعنی پیدا کردن همان نقطه شکست: چون مشکل در ورودی نیست؛ در نقطه‌ای است که کاربر باید تصمیم بگیرد — اما بی‌صدا خارج می‌شود.</p>
+      <p class="lead">واکنش غریزی، افزایش بودجه تبلیغات است؛ اما بزرگ‌کردن شیرِ یک قیفِ سوراخ، رشد نیست — <span class="hl">هدررفت شتاب‌دار</span> است. اول باید فهمید تصمیم کاربر دقیقاً کجا می‌شکند.</p>
+      <figure class="viz hero-viz">
+        <div class="viz-panel">
+          <i class="corner c-tl" aria-hidden="true"></i><i class="corner c-tr" aria-hidden="true"></i><i class="corner c-bl" aria-hidden="true"></i><i class="corner c-br" aria-hidden="true"></i>
+          <div class="viz-bar">
+            <span class="viz-title">کنسول مسیر تبدیل — نمای نشتی</span>
+            <span class="w-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+          </div>
+          <div class="viz-body">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20630'%3E%3Cdefs%3E%3ClinearGradient%20id='b'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%23142019'/%3E%3Cstop%20offset='1'%20stop-color='%230B1512'/%3E%3C/linearGradient%3E%3Cpattern%20id='p'%20width='44'%20height='44'%20patternUnits='userSpaceOnUse'%3E%3Cpath%20d='M44%200H0V44'%20fill='none'%20stroke='%2322382F'%20stroke-width='1'/%3E%3C/pattern%3E%3C/defs%3E%3Crect%20width='1200'%20height='630'%20fill='url(%23b)'/%3E%3Crect%20width='1200'%20height='630'%20fill='url(%23p)'%20opacity='.5'/%3E%3Cpath%20d='M180%20150%20L420%20150%20L378%20235%20L222%20235%20Z'%20fill='rgba(76,201,176,.10)'%20stroke='%234CC9B0'%20stroke-width='4'%20stroke-linejoin='round'/%3E%3Cpath%20d='M222%20258%20L378%20258%20L348%20330%20L252%20330%20Z'%20fill='rgba(76,201,176,.14)'%20stroke='%234CC9B0'%20stroke-width='4'%20stroke-linejoin='round'/%3E%3Cpath%20d='M252%20353%20L348%20353%20L328%20425%20L272%20425%20Z'%20fill='rgba(232,163,61,.16)'%20stroke='%23E8A33D'%20stroke-width='4'%20stroke-linejoin='round'/%3E%3Ccircle%20cx='398'%20cy='246'%20r='9'%20fill='%23EF6461'/%3E%3Cpath%20d='M398%20258v26'%20stroke='%23EF6461'%20stroke-width='4'%20stroke-linecap='round'%20stroke-dasharray='2%2010'/%3E%3Ccircle%20cx='362'%20cy='341'%20r='8'%20fill='%23EF6461'/%3E%3Cpath%20d='M362%20352v24'%20stroke='%23EF6461'%20stroke-width='4'%20stroke-linecap='round'%20stroke-dasharray='2%2010'/%3E%3Ccircle%20cx='300'%20cy='470'%20r='12'%20fill='%23E8A33D'/%3E%3Cg%3E%3Crect%20x='600'%20y='300'%20width='14'%20height='180'%20rx='7'%20fill='%23E8A33D'%20opacity='.9'/%3E%3Crect%20x='628'%20y='250'%20width='14'%20height='230'%20rx='7'%20fill='%234CC9B0'%20opacity='.7'/%3E%3Crect%20x='656'%20y='330'%20width='14'%20height='150'%20rx='7'%20fill='%23E8A33D'%20opacity='.55'/%3E%3Crect%20x='684'%20y='210'%20width='14'%20height='270'%20rx='7'%20fill='%234CC9B0'%20opacity='.85'/%3E%3Crect%20x='712'%20y='280'%20width='14'%20height='200'%20rx='7'%20fill='%23EF6461'%20opacity='.6'/%3E%3C/g%3E%3Ctext%20x='1140'%20y='300'%20text-anchor='end'%20textLength='380'%20lengthAdjust='spacingAndGlyphs'%20font-family='sans-serif'%20font-size='68'%20font-weight='800'%20fill='%23E9F2EE'%3EGrowth%20Arc%3C/text%3E%3Ctext%20x='1140'%20y='350'%20text-anchor='end'%20textLength='380'%20lengthAdjust='spacingAndGlyphs'%20font-family='sans-serif'%20font-size='22'%20font-weight='700'%20fill='%23E8A33D'%3EConversion%20Path%20-%20Data-Driven%20Growth%3C/text%3E%3C/svg%3E" alt="تحلیل مسیر تبدیل: قیف فروش سه‌مرحله‌ای با دو نقطه نشتی قرمز و میله‌های طیف داده" width="1200" height="630" loading="eager" fetchpriority="high" decoding="async">
+          </div>
+          <div class="legend">
+            <span class="lg"><span class="dotc" style="background:var(--link)"></span>مراحل سالم قیف</span>
+            <span class="lg"><span class="dotc" style="background:var(--bad)"></span>نقاط نشتی درآمد</span>
+            <span class="lg"><span class="dotc" style="background:var(--accent)"></span>هسته تبدیل</span>
+          </div>
+        </div>
+        <figcaption>قیف تبدیل با دو شکاف قرمز؛ تحلیل مسیر تبدیل دقیقاً همان نشتی‌ها را می‌بندد</figcaption>
+      </figure>
+      <div class="cta-wrap">
+        <a class="btn btn-accent" href="#final-cta">درخواست تحلیل یک‌روزه سایت</a>
+        <small class="cta-note">اول ریشه، بعد مسیر رشد</small>
+      </div>
+    </div>
+  </div>
+</section>
+
+<nav class="toc table-of-contents" aria-label="فهرست مطالب">
+  <p class="toc-title">فهرست مطالب</p>
+  <ul>
+    <li><a href="#problem">هزینه‌ها و نشانه‌های رکود تبدیل</a></li>
+    <li><a href="#layers">سه لایه پنهان نشت درآمد</a></li>
+    <li><a href="#framework">سیستم Growth Arc و لوپ بسته</a></li>
+    <li><a href="#archive">مطالعات موردی</a></li>
+    <li><a href="#trust">اصول سیستم</a></li>
+    <li><a href="#fit">برای چه کسانی مناسب است</a></li>
+    <li><a href="#faq">سؤالات متداول</a></li>
+    <li><a href="#final-cta">درخواست تحلیل</a></li>
+  </ul>
+</nav>
+
+<div class="paths-strip" aria-label="اصول و مسیرهای درمان Growth Arc">
+  <div class="container">
+    <div class="signal-inline">
+      <span class="si-item"><svg class="si-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="M15.5 15.5L21 21"></path></svg><span>تحلیل داده‌محور</span></span>
+      <span class="si-dot" aria-hidden="true"></span>
+      <span class="si-item"><svg class="si-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"></path><path d="M15 7h6v6"></path></svg><span>رشد تبدیل</span></span>
+      <span class="si-dot" aria-hidden="true"></span>
+      <span class="si-item"><svg class="si-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><circle cx="12" cy="12" r="5"></circle><circle cx="12" cy="12" r="1.5" fill="currentColor"></circle></svg><span><span class="latin">CRO</span></span></span>
+      <span class="si-dot" aria-hidden="true"></span>
+      <span class="si-item"><svg class="si-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg><span>بهینه‌سازی نرخ</span></span>
+      <span class="si-dot" aria-hidden="true"></span>
+      <span class="si-item"><svg class="si-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><ellipse cx="12" cy="5" rx="8" ry="3"></ellipse><path d="M4 5v6c0 1.66 3.58 3 8 3s8-1.34 8-3V5"></path><path d="M4 11v6c0 1.66 3.58 3 8 3s8-1.34 8-3v-6"></path></svg><span><span class="latin">Data Before Decisions</span></span></span>
+    </div>
+    <p class="paths-intro">هر لایه، مسیر درمان اختصاصی خودش را دارد — مستقیم از همان‌جا شروع کنید:</p>
+    <nav class="paths-links">
+      <a class="plink" href="https://vahidabidar.ir/digital-lab/"><span class="pl-ic" aria-hidden="true">🧪</span>لابراتوار تحلیل</a>
+      <a class="plink" href="https://vahidabidar.ir/seo-authority/"><span class="pl-ic" aria-hidden="true">🔍</span>سئو داده‌محور</a>
+      <a class="plink" href="https://vahidabidar.ir/ux-analysis/"><span class="pl-ic" aria-hidden="true">🎯</span>بهینه‌سازی تجربه کاربری</a>
+      <a class="plink" href="https://vahidabidar.ir/re-design/"><span class="pl-ic" aria-hidden="true">🎨</span>بازطراحی داده‌محور</a>
+      <a class="plink" href="https://vahidabidar.ir/web-design/"><span class="pl-ic" aria-hidden="true">💻</span>طراحی سایت حرفه‌ای</a>
+    </nav>
+  </div>
+</div>
+
+<section class="section" id="problem" aria-labelledby="h-problem">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-problem">رکود تبدیل؛ سه <span class="kw-l">هزینه پنهان</span> و پنج نشانهٔ آن</h2>
+      <p class="subline">داشبوردها بازدید را نشان می‌دهند، نه آنچه هر روز از دست می‌رود: درآمدِ در حال نشت، تصمیم‌های حدسیِ گران، و تمرینِ رقیب با پول شما.</p>
+    </div>
+    <div class="cards-5 stagger">
+      <article class="card reveal"><span class="num" aria-hidden="true">۱</span><h3>بازدید بالا، تکمیل صفر</h3><p>محتوا خوانده می‌شود؛ اقدام انجام نمی‌شود.</p><span class="threshold">⚠ کلیک روی CTA زیر ۲٪</span></article>
+      <article class="card reveal"><span class="num" aria-hidden="true">۲</span><h3>حضور طولانی، تعامل صفر</h3><p>نشانه علاقه نیست؛ نشانه سردرگمی است.</p><span class="threshold">⚠ عمق اسکرول زیر ۴٪</span></article>
+      <article class="card reveal"><span class="num" aria-hidden="true">۳</span><h3>ریزش در صفحات <span class="kw-a">پول‌ساز</span></h3><p>دقیقاً همان‌جا که قرار بود درآمد ساخته شود.</p><span class="threshold"> خروج از سبد بالای ۷۰٪</span></article>
+      <article class="card reveal"><span class="num" aria-hidden="true">۴</span><h3><span class="kw-l">واگرایی</span> روند</h3><p>بازدید بالا رفته، درآمد تکان نخورده.</p><span class="threshold">⚠ ۳ ماه ترافیک صعودی، درآمد ±</span></article>
+      <article class="card reveal"><span class="num" aria-hidden="true">۵</span><h3>سرگردانی بدون تصمیم</h3><p>کاربر می‌چرخد اما به انتها نمی‌رسد.</p><span class="threshold">⚠ بیش از ۵ صفحه بدون تبدیل</span></article>
+    </div>
+    <figure class="viz reveal">
+      <div class="viz-panel">
+        <i class="corner c-tl" aria-hidden="true"></i><i class="corner c-tr" aria-hidden="true"></i><i class="corner c-bl" aria-hidden="true"></i><i class="corner c-br" aria-hidden="true"></i>
+        <div class="viz-bar"><span class="viz-title">قیف تبدیل — نمای نشتی</span><span class="w-dots" aria-hidden="true"><i></i><i></i><i></i></span></div>
+        <div class="viz-body">
+          <div class="funnel">
+            <div class="f-bar" style="--w:100%"><span>ورود کاربر</span><b>۱۰۰٪</b></div>
+            <span class="f-drop">−۳۶٪ ریزش طبیعی</span>
+            <div class="f-bar" style="--w:64%"><span>مشاهده محصول</span><b>۶۴٪</b></div>
+            <span class="f-drop leak">−۳٪ ⚠ نشتی</span>
+            <div class="f-bar" style="--w:31%"><span>افزودن به سبد</span><b>۳۱٪</b></div>
+            <span class="f-drop leak">−۲۲٪  نشتی</span>
+            <div class="f-bar final" style="--w:14%"><span>خرید</span><b>۹٪</b></div>
+          </div>
+        </div>
+        <div class="legend">
+          <span class="lg"><span class="dotc" style="background:var(--link)"></span>مرحله سالم</span>
+          <span class="lg"><span class="dotc" style="background:var(--bad)"></span>نشتی در مرحله پول‌ساز</span>
+        </div>
+      </div>
+      <figcaption>کاربران از دو شکاف قرمز بیرون می‌ریزند — درست در مراحل درآمدساز</figcaption>
+    </figure>
+    <p class="subline reveal" style="margin-top:30px">نام این هزینه‌ها «هزینه» نیست — <span class="hl">«درآمدِ نیامده»</span> است؛ و تحلیل مسیر تبدیل دقیقاً همین درآمد نیامده را هدف می‌گیرد.</p>
+  </div>
+</section>
+
+<section class="section" id="layers" aria-labelledby="h-layers">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-layers">تحلیل مسیر تبدیل؛ سه لایه پنهان که <span class="kw-a">بودجه بازاریابی</span> را می‌بلعند</h2>
+      <p class="subline">هر لایه امضای خودش را دارد — و مسیر درمان خودش را.</p>
+    </div>
+    <div class="cards-3 stagger">
+      <article class="card reveal">
+        <h3>🎯 مخاطب <span class="kw-l">نامرتبط</span></h3>
+        <p>سیگنال اشتباه، آدم اشتباه را صدا زده است.</p>
+        <div class="sign"><b>امضا در داده</b>بانس بالای لندینگ + کوئری ناهم‌خوان با محصول</div>
+        <p class="cost">بودجه صرف لیدهایی می‌شود که مشتری نمی‌شوند</p>
+        <a class="link-slide" href="https://vahidabidar.ir/seo-authority/">درمان: سئو ←</a>
+      </article>
+      <article class="card reveal">
+        <h3>️ مسیر <span class="kw-a">پُراصطکاک</span></h3>
+        <p>کاربر پیش از نقطه تصمیم منصرف می‌شود.</p>
+        <div class="sign"><b>امضا در داده</b>ریزش متمرکز در یک گام مشخص از چک‌اوت</div>
+        <p class="cost">هر گام اضافه، یک درصد مشخص از درآمد</p>
+        <a class="link-slide" href="https://vahidabidar.ir/ux-analysis/">درمان: تجربه کاربری ←</a>
+      </article>
+      <article class="card reveal">
+        <h3>🎨 ساختار <span class="kw-l">فرسوده</span></h3>
+        <p>زبان بصری متعلق به دوره‌ای دیگر است.</p>
+        <div class="sign"><b>امضا در داده</b>تبدیل کاربر بازگشته چندبرابر کاربر تازه</div>
+        <p class="cost">اعتماد، پیش از هر تعاملی از دست می‌رود</p>
+        <a class="link-slide" href="https://vahidabidar.ir/re-design/">درمان: بازطراحی ←</a>
+      </article>
+    </div>
+    <figure class="viz reveal">
+      <div class="viz-panel">
+        <i class="corner c-tl" aria-hidden="true"></i><i class="corner c-tr" aria-hidden="true"></i><i class="corner c-bl" aria-hidden="true"></i><i class="corner c-br" aria-hidden="true"></i>
+        <div class="viz-bar"><span class="viz-title">لایه‌های فشرده‌سازی</span><span class="w-dots" aria-hidden="true"><i></i><i></i><i></i></span></div>
+        <div class="viz-body">
+          <svg viewBox="0 0 520 330" role="img" aria-label="سه حلقه تو در تو که کاربران را به سمت هسته تبدیل فشرده می‌کنند" width="520" height="330">
+            <g>
+              <circle cx="260" cy="165" r="140" fill="none" class="stroke-mut" stroke-width="1.5" stroke-dasharray="3 10" opacity=".6"></circle>
+              <circle cx="400" cy="165" r="6" class="fill-lnk"></circle>
+              <circle cx="190" cy="48" r="6" class="fill-lnk"></circle>
+              <circle cx="190" cy="282" r="6" class="fill-lnk"></circle>
+            </g>
+            <g>
+              <circle cx="260" cy="165" r="95" fill="none" class="stroke-lnk" stroke-width="2" opacity=".6" stroke-dasharray="14 10"></circle>
+              <circle cx="355" cy="165" r="5" class="fill-lnk"></circle>
+              <circle cx="212" cy="84" r="5" class="fill-lnk"></circle>
+            </g>
+            <circle cx="260" cy="165" r="52" fill="none" class="stroke-acc" stroke-width="2.5" opacity=".9"></circle>
+            <circle cx="260" cy="165" r="30" fill="none" class="stroke-acc ping" stroke-width="2" opacity=".4"></circle>
+            <circle cx="260" cy="165" r="23" class="fill-acc"></circle>
+            <text x="260" y="170" text-anchor="middle" fill="#0B1512" font-size="13" font-weight="800" font-family="inherit">تبدیل</text>
+          </svg>
+        </div>
+        <div class="legend">
+          <span class="lg"><span class="dotc" style="background:var(--text-2)"></span>لایه ۱ · مخاطب</span>
+          <span class="lg"><span class="dotc" style="background:var(--link)"></span>لایه ۲ · مسیر</span>
+          <span class="lg"><span class="dotc" style="background:var(--accent)"></span>لایه ۳ · ساختار</span>
+        </div>
+      </div>
+      <figcaption>هر لایه بدون ترمیم، کاربران را پیش از رسیدن به هسته حذف می‌کند</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="section" id="framework" aria-labelledby="h-method">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-method">⚡ <span class="latin">Growth Arc</span> — اول <span class="kw-l">تحلیل</span>، بعد تصمیم، سپس اجرا</h2>
+      <p class="subline">هر پروژه با تحلیل مسیر تبدیل شروع می‌شود؛ فقط مسیر لازم فعال می‌گردد — نه بیشتر.</p>
+    </div>
+    <figure class="viz reveal">
+      <div class="viz-panel">
+        <i class="corner c-tl" aria-hidden="true"></i><i class="corner c-tr" aria-hidden="true"></i><i class="corner c-bl" aria-hidden="true"></i><i class="corner c-br" aria-hidden="true"></i>
+        <div class="viz-bar"><span class="viz-title">معماری سیستم</span><span class="w-dots" aria-hidden="true"><i></i><i></i><i></i></span></div>
+        <div class="viz-body">
+          <svg viewBox="0 0 640 290" role="img" aria-label="هاب مرکزی لابراتوار با سه شاخه به سمت تجربه کاربری، سئو و بازطراحی" width="640" height="290">
+            <path d="M268 145 L212 145" fill="none" class="flowl stroke-mut" stroke-width="2"></path>
+            <path d="M372 145 L428 145" fill="none" class="flowl stroke-mut" stroke-width="2"></path>
+            <path d="M320 197 L320 250" fill="none" class="flowl stroke-mut" stroke-width="2"></path>
+            <circle cx="320" cy="145" r="64" fill="none" class="stroke-acc ping" stroke-width="2" opacity=".3"></circle>
+            <circle cx="320" cy="145" r="52" fill="var(--panel)" stroke="#E8A33D" stroke-width="2.5"></circle>
+            <text x="320" y="136" text-anchor="middle" font-size="20" font-family="inherit">🧪</text>
+            <text x="320" y="160" text-anchor="middle" fill="#E8A33D" font-size="14" font-weight="800" font-family="inherit">Analysis Lab</text>
+            <circle cx="160" cy="145" r="34" fill="var(--panel)" stroke="var(--line)" stroke-width="2"></circle>
+            <text x="160" y="153" text-anchor="middle" font-size="22" font-family="inherit">🎯</text>
+            <circle cx="480" cy="145" r="34" fill="var(--panel)" stroke="var(--line)" stroke-width="2"></circle>
+            <text x="480" y="153" text-anchor="middle" font-size="22" font-family="inherit">🔍</text>
+            <circle cx="320" cy="250" r="34" fill="var(--panel)" stroke="var(--line)" stroke-width="2"></circle>
+            <text x="320" y="258" text-anchor="middle" font-size="22" font-family="inherit">🎨</text>
+          </svg>
+        </div>
+        <div class="legend">
+          <span class="lg"><span class="dotc" style="background:var(--accent)"></span>لابراتوار — همیشه فعال</span>
+          <span class="lg"><span class="dotc" style="background:var(--line)"></span>سه مسیر اجرا — فقط در صورت نیاز</span>
+        </div>
+      </div>
+      <figcaption>همه مسیرها از هاب تشخیص عبور می‌کنند</figcaption>
+    </figure>
+    <div class="mods stagger">
+      <div class="mod always reveal"><span class="m-ic" aria-hidden="true">🧪</span><div class="m-body"><h3>Analysis Lab</h3><p>نقشه شکاف‌ها + اولویت اقدامات</p></div><span class="m-dur">۱ روز</span></div>
+      <div class="mod reveal"><span class="m-ic" aria-hidden="true">🎯</span><div class="m-body"><h3>UX</h3><p>اگر کاربر در مسیر متوقف شود</p></div><span class="m-dur">۲–۴ هفته</span></div>
+      <div class="mod reveal"><span class="m-ic" aria-hidden="true">🔍</span><div class="m-body"><h3>SEO</h3><p>اگر مخاطب با هدف هم‌خوان نباشد</p></div><span class="m-dur">۸–۱۲ هفته</span></div>
+      <div class="mod reveal"><span class="m-ic" aria-hidden="true">🎨</span><div class="m-body"><h3>Redesign</h3><p>اگر ساختار از انتظار کاربر عقب باشد</p></div><span class="m-dur">۴–۸ هفته</span></div>
+    </div>
+    <div class="loop reveal">
+      <div class="loop-node"><span class="ln-num" aria-hidden="true">۱</span><span class="ln-t">شواهد</span></div>
+      <span class="loop-arrow" aria-hidden="true">←</span>
+      <div class="loop-node"><span class="ln-num" aria-hidden="true">۲</span><span class="ln-t">تشخیص</span></div>
+      <span class="loop-arrow" aria-hidden="true">←</span>
+      <div class="loop-node"><span class="ln-num" aria-hidden="true">۳</span><span class="ln-t">اقدام</span></div>
+      <span class="loop-arrow" aria-hidden="true">←</span>
+      <div class="loop-node"><span class="ln-num" aria-hidden="true">۴</span><span class="ln-t">اندازه‌گیری</span></div>
+    </div>
+    <p class="loop-back reveal">↺ لوپ بسته — هر دور، سیستم را دقیق‌تر می‌کند</p>
+  </div>
+</section>
+
+<section class="section" id="archive" aria-labelledby="h-archive">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-archive">داده‌ها وقتی جدی می‌شوند که <span class="kw-a">قبل و بعد</span> داشته باشند</h2>
+      <p class="subline">سه پرونده از آرشیو — هر کدام یک لایه متفاوت</p>
+    </div>
+    <div class="case-grid stagger">
+      <article class="case-card reveal">
+        <div class="case-head"><span class="case-emoji" aria-hidden="true">🛍️</span><div><h3>فروشگاه مد</h3><span class="layer-chip lc2">لایه ۲</span></div></div>
+        <div class="case-bars">
+          <div class="cbar-row"><span class="cbar-lbl">قبل</span><div class="cbar-track"><div class="cbar-fill cbar-before" style="width:22%"></div></div><span class="cbar-val">۰.۸٪</span></div>
+          <div class="cbar-row"><span class="cbar-lbl">بعد</span><div class="cbar-track"><div class="cbar-fill cbar-after" style="width:88%"></div></div><span class="cbar-val">۲.۱٪</span></div>
+        </div>
+        <p class="case-change"><b>تغییر کلیدی:</b> چک‌اوت ۷ مرحله‌ای → ۳ مرحله‌ای</p>
+        <div class="case-growth"><span class="g-num counter" data-target="181" data-suffix="٪">۰٪</span><small>رشد فروش</small></div>
+      </article>
+      <article class="case-card reveal">
+        <div class="case-head"><span class="case-emoji" aria-hidden="true">💼</span><div><h3>خدمات B2B</h3><span class="layer-chip lc1">لایه ۱</span></div></div>
+        <div class="case-bars">
+          <div class="cbar-row"><span class="cbar-lbl">قبل</span><div class="cbar-track"><div class="cbar-fill cbar-before" style="width:18%"></div></div><span class="cbar-val">۲ لید</span></div>
+          <div class="cbar-row"><span class="cbar-lbl">بعد</span><div class="cbar-track"><div class="cbar-fill cbar-after" style="width:90%"></div></div><span class="cbar-val">۷ لید</span></div>
+        </div>
+        <p class="case-change"><b>تغییر کلیدی:</b> بازنویسی لندینگ حول اینتنت واقعی</p>
+        <div class="case-growth"><span class="g-num counter" data-target="242" data-suffix="٪">۰٪</span><small>رشد لید</small></div>
+      </article>
+      <article class="case-card reveal">
+        <div class="case-head"><span class="case-emoji" aria-hidden="true">🏥</span><div><h3>کلینیک تخصصی</h3><span class="layer-chip lc3">لایه ۳</span></div></div>
+        <div class="case-bars">
+          <div class="cbar-row"><span class="cbar-lbl">قبل</span><div class="cbar-track"><div class="cbar-fill cbar-before" style="width:26%"></div></div><span class="cbar-val">۲۸ نوبت</span></div>
+          <div class="cbar-row"><span class="cbar-lbl">بعد</span><div class="cbar-track"><div class="cbar-fill cbar-after" style="width:85%"></div></div><span class="cbar-val">۷۴ نوبت</span></div>
+        </div>
+        <p class="case-change"><b>تغییر کلیدی:</b> بازسازی صفحه تیم و نظرات</p>
+        <div class="case-growth"><span class="g-num counter" data-target="164" data-suffix="٪">۰٪</span><small>رشد نوبت‌دهی</small></div>
+      </article>
+    </div>
+    <p class="baymard-ref reveal">این الگوها با داده‌های جهانی هم‌راستا هستند؛ مثلاً طبق گزارش <a href="https://baymard.com/lists/cart-abandonment-rate" rel="noopener noreferrer" target="_blank">Baymard Institute</a>، نرخ رهاشدگی سبد خرید در سطح جهانی حدود <span class="kw-a">۷۰٪</span> است — دقیقاً همان نقطه‌ای که تحلیل مسیر تبدیل شکارش می‌کند.</p>
+    <div class="quote reveal">
+      <p>«در یک روز مشخص شد مشکل خود مسیر است؛ ماه اول، هزینه پروژه برگشت.»</p>
+      <span class="author">— مدیر فروشگاه آنلاین، تهران</span>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="trust" aria-labelledby="h-trust">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-trust">این یک خدمت نیست؛ یک <span class="kw-a">سیستم</span> است</h2>
+      <p class="subline">سیستم Growth Arc یک لوپ بسته است: شواهد جمع می‌کند، تشخیص می‌دهد، حداقل تغییر لازم را اعمال می‌کند، نتیجه را اندازه می‌گیرد — و دوباره از شواهد شروع می‌کند.</p>
+    </div>
+    <div class="sys-principles stagger">
+      <div class="sys-p reveal"><span class="sp-ic" aria-hidden="true">🔬</span><h3>تشخیص قبل از درمان</h3><p>هیچ تغییری بدون شواهد اعمال نمی‌شود.</p></div>
+      <div class="sys-p reveal"><span class="sp-ic" aria-hidden="true">⚡</span><h3>حداقل مداخله</h3><p>فقط همان‌جا که لازم است — نه بیشتر.</p></div>
+      <div class="sys-p reveal"><span class="sp-ic" aria-hidden="true">📊</span><h3>اندازه‌گیری</h3><p>هر تغییر با عدد قبل و بعد سنجیده می‌شود.</p></div>
+    </div>
+    <div class="brand-st reveal">
+      <div class="en">Data Before Decisions</div>
+      <div class="fa">اول تحلیل. بعد تصمیم. سپس اجرا.</div>
+    </div>
+    <div class="stats-strip">
+      <div class="stat reveal"><span class="counter" data-target="70" data-suffix="٪">۰٪</span><small>بازطراحی بدون تشخیص که به هدف درآمدی نمی‌رسد</small></div>
+      <div class="stat reveal"><span class="counter" data-target="1" data-suffix=" روز">۰ روز</span><small>تحلیل اختصاصی روی سایت شما</small></div>
+      <div class="stat reveal"><span class="counter" data-target="3" data-suffix=" پرونده">۰ پرونده</span><small>ظرفیت ماهانه برای حفظ عمق</small></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="fit" aria-labelledby="h-fit">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-fit">این مسیر برای <span class="kw-l">هر کسب‌وکاری</span> نیست</h2>
+    </div>
+    <div class="fit-grid">
+      <div class="fit-col yes reveal">
+        <h3>✅ برای شماست اگر</h3>
+        <ul>
+          <li>ترافیک فعال دارید اما تبدیل متوقف شده</li>
+          <li>بر پایه داده تصمیم می‌گیرید، نه سلیقه</li>
+          <li>اصلاح را از ریشه می‌خواهید، نه ظاهر</li>
+        </ul>
+      </div>
+      <div class="fit-col no reveal">
+        <h3>❌ برای شما نیست اگر</h3>
+        <ul>
+          <li>سایت تازه است و داده کافی ندارد</li>
+          <li>دنبال راه‌حل جادویی یک‌شبه‌اید</li>
+          <li>قصد اجرای توصیه‌ها را ندارید</li>
+        </ul>
+      </div>
+    </div>
+    <p class="honest reveal">اگر داده‌تان کافی نباشد، در همان گزارش اول می‌گوییم — و <b>چیزی نمی‌فروشیم</b>. تحلیل مسیر تبدیل دقیقاً همان درآمد نیامده را هدف می‌گیرد.</p>
+  </div>
+</section>
+
+<section class="section" id="faq" aria-labelledby="h-faq">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-faq">پیش از درخواست، این سؤال‌ها پرسیده می‌شود</h2>
+    </div>
+    <div class="faq-list">
+      <details class="reveal"><summary>برای شروع تحلیل مسیر تبدیل، به چه داده‌هایی نیاز دارید؟</summary><p class="answer">دسترسی مشاهده‌ای به <span class="latin">Google Analytics</span> و <span class="latin">Search Console</span> کافی است؛ اگر ندارید، با داده‌های موجود شروع می‌کنیم.</p></details>
+      <details class="reveal"><summary>ادامه همکاری پس از تحلیل مسیر تبدیل چقدر هزینه دارد؟</summary><p class="answer">نقشه راه رایگان است؛ اجرا پروژه‌ای تعریف می‌شود و <span class="hl">ROI تخمینی قبل از امضا</span> اعلام می‌گردد.</p></details>
+      <details class="reveal"><summary>اولین نتیجه کی دیده می‌شود؟</summary><p class="answer">اولین تغییر در داده‌ها <span class="hl">هفته دوم</span> و رشد معنادار در ۶۰ تا ۹۰ روز.</p></details>
+      <details class="reveal"><summary>چرا ظرفیت هر ماه فقط ۳ پرونده است؟</summary><p class="answer">هر پرونده یک روز کامل تمرکز عمیق می‌گیرد؛ عمق تشخیص به زمان نیاز دارد.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="final-cta" aria-labelledby="h-final">
+  <div class="container">
+    <div class="sec-head reveal">
+      <h2 id="h-final">پرونده سایت شما، <span class="kw-a">منتظر بررسی</span> است</h2>
+      <p class="subline">نه جلسه فروش — یک روز کامل تفکر و تحلیل مسیر تبدیل، اختصاصی روی سایت شما.</p>
+    </div>
+    <div class="days-grid">
+      <div class="day-card reveal"><span class="tag">نیمه اول — تفکر</span><p>بیزینس، مخاطب و مسیر درآمد؛ پیش از هر عددی، سؤال‌های درست.</p></div>
+      <div class="day-card reveal"><span class="tag">نیمه دوم — تحلیل</span><p>داده‌ها، قیف، رفتار و ساختار؛ پیدا کردن گلوگاه اصلی.</p></div>
+    </div>
+    <div class="output-chip reveal">خروجی: گزارش تشخیص + نقشه راه اولویت‌بندی‌شده</div>
+
+    <form id="cta-form" novalidate="">
+      <div class="form-grid">
+        <div class="field">
+          <label for="f-name">نام و نام خانوادگی *</label>
+          <input type="text" id="f-name" name="name" autocomplete="name" placeholder="مثلاً سارا محمدی" required="" aria-describedby="e-name">
+          <p class="form-error" id="e-name" aria-live="polite" hidden=""></p>
+        </div>
+        <div class="field">
+          <label for="f-phone">شماره تماس *</label>
+          <input type="tel" id="f-phone" name="phone" dir="ltr" inputmode="tel" autocomplete="tel" pattern="09[0-9]{9}" placeholder="09xxxxxxxxx" required="" aria-describedby="e-phone">
+          <p class="form-error" id="e-phone" aria-live="polite" hidden=""></p>
+        </div>
+        <div class="field">
+          <label for="f-site">آدرس سایت *</label>
+          <input type="text" id="f-site" name="site" dir="ltr" inputmode="url" placeholder="example.com" required="" aria-describedby="e-site">
+          <p class="form-error" id="e-site" aria-live="polite" hidden=""></p>
+        </div>
+        <div class="field">
+          <label for="f-business">حوزه فعالیت *</label>
+          <select id="f-business" name="business" required="" aria-describedby="e-business">
+            <option value="">انتخاب کنید...</option>
+            <option value="ecommerce">فروشگاه آنلاین</option>
+            <option value="saas">نرم‌افزار / SaaS</option>
+            <option value="b2b">خدمات B2B</option>
+            <option value="b2c">خدمات B2C (آموزش، سلامت)</option>
+            <option value="other">سایر</option>
+          </select>
+          <p class="form-error" id="e-business" aria-live="polite" hidden=""></p>
+        </div>
+        <div class="field" style="grid-column:1/-1">
+          <label for="f-traffic">ترافیک ماهانه تقریبی *</label>
+          <select id="f-traffic" name="traffic" required="" aria-describedby="e-traffic">
+            <option value="">انتخاب کنید...</option>
+            <option value="0-1k">کمتر از ۱,۰۰۰ بازدید</option>
+            <option value="1k-10k">۱,۰۰۰ تا ۱۰,۰۰۰ بازدید</option>
+            <option value="10k-50k">۱۰,۰۰۰ تا ۵۰,۰۰۰ بازدید</option>
+            <option value="50k+">بیش از ۵۰,۰۰۰ بازدید</option>
+          </select>
+          <p class="form-error" id="e-traffic" aria-live="polite" hidden=""></p>
+        </div>
+        <div class="form-submit">
+          <button type="submit" class="btn btn-accent" id="submit-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+            <span>ارسال درخواست به واتساپ</span>
+          </button>
+          <small class="cta-note">بدون تعهد — بدون هزینه — پیام مستقیم به واتساپ می‌رسد</small>
+        </div>
+      </div>
+    </form>
+    <noscript>
+      <p style="text-align:center;color:var(--text-2);font-size:13px;margin-top:16px">
+        برای ارسال درخواست، جاوااسکریپت را فعال کنید یا مستقیم تماس بگیرید:
+        <a href="tel:+989184976614" style="color:var(--link);font-weight:700">تماس تلفنی</a> ·
+        <a href="https://wa.me/989184976614" style="color:var(--link);font-weight:700">واتساپ</a> ·
+        <a href="mailto:vahid@vahidabidar.ir" style="color:var(--link);font-weight:700">ایمیل</a>
+      </p>
+    </noscript>
+
+    <div id="form-success" hidden="">✅ درخواست شما ثبت شد — تیم تحلیل ظرف ۴ ساعت کاری در واتساپ پاسخ می‌دهد</div>
+    <div class="capacity reveal"><span class="live-dot" aria-hidden="true"></span> ⏳ ظرفیت این ماه: فقط ۳ پرونده</div>
+    <p class="contact-line reveal">📍 یا مستقیم تماس بگیرید: <a href="tel:+989184976614" class="chip" dir="ltr">+98 918 497 6614</a> • <a href="https://wa.me/989184976614" class="chip" rel="noopener noreferrer">واتساپ</a> • <a href="mailto:vahid@vahidabidar.ir" class="chip">vahid@vahidabidar.ir</a></p>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="container footer-inner">
+    <a class="brand" href="https://vahidabidar.ir/" aria-label="Growth Arc — صفحه اصلی" style="justify-self:center">
+      <svg viewBox="0 0 40 40" aria-hidden="true" width="28" height="28">
+        <path d="M6 32 C 14 30, 24 22, 30 8" fill="none" stroke="#E8A33D" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M24 8 h7 v7" fill="none" stroke="#E8A33D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle class="lg-dot" cx="6" cy="32" r="3" fill="#4CC9B0"></circle>
+      </svg>
+      <span>Growth Arc</span>
+    </a>
+    <nav class="footer-links" aria-label="دسترسی سریع">
+      <a class="link-slide" href="https://vahidabidar.ir/">مادر</a>
+      <a class="link-slide" href="https://vahidabidar.ir/digital-lab/">لابراتوار</a>
+      <a class="link-slide" href="https://vahidabidar.ir/seo-authority/">سئو</a>
+      <a class="link-slide" href="https://vahidabidar.ir/ux-analysis/">تجربه کاربری</a>
+      <a class="link-slide" href="https://vahidabidar.ir/re-design/">بازطراحی</a>
+      <a class="link-slide" href="https://vahidabidar.ir/web-design/">طراحی سایت</a>
+      <a class="link-slide" href="https://vahidabidar.ir/about/">درباره ما</a>
+    </nav>
+    <form class="news-form" id="news-form" novalidate="">
+      <input type="email" id="news-email" dir="ltr" placeholder="ایمیل شما برای خبرنامه" aria-label="ایمیل برای عضویت در خبرنامه" aria-describedby="news-msg">
+      <button type="submit" class="btn btn-ghost" style="min-height:42px">عضویت</button>
+    </form>
+    <p class="form-error" id="news-msg" aria-live="polite" hidden="" style="text-align:center"></p>
+    <div class="socials">
+      <a href="https://x.com/growtharc" aria-label="صفحه ایکس (توییتر) Growth Arc" rel="noopener noreferrer"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 4l16 16M20 4L4 20"></path></svg></a>
+      <a href="https://www.linkedin.com/company/growtharc" aria-label="صفحه لینکدین Growth Arc" rel="noopener noreferrer"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4V8h4v1.5"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a>
+      <a href="https://www.instagram.com/growtharc" aria-label="صفحه اینستاگرام Growth Arc" rel="noopener noreferrer"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line></svg></a>
+      <a href="https://t.me/growtharc" aria-label="کانال تلگرام Growth Arc" rel="noopener noreferrer"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"></path></svg></a>
+    </div>
+    <p class="copyright">© ۱۴۰۴ <span class="latin">Growth Arc</span> — تمامی حقوق محفوظ است | <span class="latin">Data Before Decisions.</span></p>
+  </div>
+</footer>
+
+<script>
+(function(){
+'use strict';
+
+var bar=document.getElementById('scroll-progress'),header=document.getElementById('site-header'),ticking=false;
+function updateScrollUI(){
+  var h=document.documentElement,max=h.scrollHeight-h.clientHeight;
+  bar.style.transform='scaleX('+(max>0?h.scrollTop/max:0)+')';
+  header.classList.toggle('scrolled',h.scrollTop>24);
+  ticking=false;
+}
+window.addEventListener('scroll',function(){
+  if(!ticking){ticking=true;requestAnimationFrame(updateScrollUI);}
+},{passive:true});
+updateScrollUI();
+
+var root=document.documentElement,tbtn=document.getElementById('theme-toggle');
+try{
+  var saved=localStorage.getItem('ga-theme');
+  if(saved==='light'||saved==='dark')root.setAttribute('data-theme',saved);
+}catch(e){}
+function syncTheme(){
+  var light=root.getAttribute('data-theme')==='light';
+  tbtn.setAttribute('aria-pressed',light?'true':'false');
+}
+tbtn.addEventListener('click',function(){
+  var next=root.getAttribute('data-theme')==='light'?'dark':'light';
+  root.setAttribute('data-theme',next);
+  try{localStorage.setItem('ga-theme',next);}catch(e){}
+  syncTheme();
+});
+syncTheme();
+
+var burger=document.getElementById('burger'),nav=document.getElementById('main-nav'),
+    backdrop=document.getElementById('menu-backdrop'),menuLinks=nav.querySelectorAll('a'),isMenuOpen=false;
+function openMenu(){
+  isMenuOpen=true;
+  nav.classList.add('open');burger.classList.add('open');backdrop.classList.add('active');
+  burger.setAttribute('aria-expanded','true');document.body.classList.add('menu-open');
+  if(menuLinks.length)menuLinks[0].focus();
+}
+function closeMenu(){
+  if(!isMenuOpen)return;
+  isMenuOpen=false;
+  nav.classList.remove('open');burger.classList.remove('open');backdrop.classList.remove('active');
+  burger.setAttribute('aria-expanded','false');document.body.classList.remove('menu-open');
+  burger.focus();
+}
+burger.addEventListener('click',function(){isMenuOpen?closeMenu():openMenu();});
+backdrop.addEventListener('click',closeMenu);
+menuLinks.forEach(function(link){link.addEventListener('click',closeMenu);});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&isMenuOpen)closeMenu();});
+window.addEventListener('resize',function(){if(window.innerWidth>768&&isMenuOpen)closeMenu();});
+
+var form=document.getElementById('cta-form');
+if(form){
+  function setErr(input,msgEl,msg){input.classList.add('invalid');msgEl.textContent=msg;msgEl.hidden=false;}
+  function clrErr(input,msgEl){input.classList.remove('invalid');msgEl.textContent='';msgEl.hidden=true;}
+
+  var name=document.getElementById('f-name'),phone=document.getElementById('f-phone'),
+      site=document.getElementById('f-site'),business=document.getElementById('f-business'),
+      traffic=document.getElementById('f-traffic');
+  var eName=document.getElementById('e-name'),ePhone=document.getElementById('e-phone'),
+      eSite=document.getElementById('e-site'),eBusiness=document.getElementById('e-business'),
+      eTraffic=document.getElementById('e-traffic');
+
+  [name,phone,site,business,traffic].forEach(function(inp){
+    inp.addEventListener('change',function(){clrErr(inp,document.getElementById('e-'+inp.id.slice(2)));});
+  });
+  [name,phone,site].forEach(function(inp){
+    inp.addEventListener('input',function(){clrErr(inp,document.getElementById('e-'+inp.id.slice(2)));});
+  });
+
+  form.addEventListener('submit',function(ev){
+    ev.preventDefault();
+    var ok=true;
+    var phoneVal=phone.value.replace(/[\s\-()]/g,'');
+
+    if(name.value.trim().length<3){setErr(name,eName,'نام حداقل ۳ نویسه');ok=false;}else clrErr(name,eName);
+    if(!/^09[0-9]{9}$/.test(phoneVal)){setErr(phone,ePhone,'شماره ۱۱ رقمی با ۰۹');ok=false;}
+    else{clrErr(phone,ePhone);phone.value=phoneVal;}
+    if(!/^[^\s]+\.[^\s]{2,}/.test(site.value.trim())){setErr(site,eSite,'example.com');ok=false;}else clrErr(site,eSite);
+    if(!business.value){setErr(business,eBusiness,'حوزه را انتخاب کنید');ok=false;}else clrErr(business,eBusiness);
+    if(!traffic.value){setErr(traffic,eTraffic,'ترافیک را انتخاب کنید');ok=false;}else clrErr(traffic,eTraffic);
+
+    if(!ok)return;
+
+    var btn=document.getElementById('submit-btn');
+    btn.disabled=true;btn.querySelector('span').textContent='در حال انتقال...';
+
+    var bLabels={'ecommerce':'فروشگاه آنلاین','saas':'نرم‌افزار / SaaS','b2b':'خدمات B2B','b2c':'خدمات B2C','other':'سایر'};
+    var tLabels={'0-1k':'کمتر از ۱,۰۰۰','1k-10k':'۱,۰۰۰ تا ۱۰,۰۰۰','10k-50k':'۱۰,۰۰۰ تا ۵۰,۰۰۰','50k+':'بیش از ۵۰,۰۰۰'};
+
+    var lead={
+      name:name.value.trim(),phone:phoneVal,site:site.value.trim(),
+      business:business.value,traffic:traffic.value,page:window.location.href
+    };
+    var msg='🟢 *درخواست جدید تحلیل مسیر تبدیل*\n\n'+
+      '👤 *نام:* '+lead.name+'\n📱 *تماس:* '+lead.phone+'\n🌐 *سایت:* '+lead.site+
+      '\n🏢 *حوزه:* '+bLabels[lead.business]+'\n📊 *ترافیک:* '+tLabels[lead.traffic]+
+      '\n\n🔗 *صفحه:* '+lead.page;
+
+    function openWhatsApp(){
+      var a=document.createElement('a');
+      a.href='https://wa.me/989184976614?text='+encodeURIComponent(msg);
+      a.target='_blank';a.rel='noopener noreferrer';
+      document.body.appendChild(a);a.click();document.body.removeChild(a);
+      setTimeout(function(){
+        form.hidden=true;
+        document.getElementById('form-success').hidden=false;
+        document.getElementById('form-success').scrollIntoView({behavior:'smooth',block:'center'});
+      },800);
+    }
+    openWhatsApp();
+  });
+}
+
+var news=document.getElementById('news-form');
+if(news){
+  var nMail=document.getElementById('news-email'),nMsg=document.getElementById('news-msg');
+  news.addEventListener('submit',function(ev){
+    ev.preventDefault();
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(nMail.value.trim())){
+      nMsg.textContent='ایمیل معتبر';nMsg.hidden=false;nMsg.style.color='var(--bad)';nMail.classList.add('invalid');
+    }else{
+      nMsg.textContent='✅ عضویت ثبت شد';nMsg.hidden=false;nMsg.style.color='var(--ok)';
+      nMail.classList.remove('invalid');nMail.value='';
+      setTimeout(function(){nMsg.hidden=true;},4000);
+    }
+  });
+}
+
+function toFa(n){return n.toLocaleString('fa-IR');}
+function runCounter(el){
+  var target=parseInt(el.getAttribute('data-target'),10)||0,suffix=el.getAttribute('data-suffix')||'',
+      dur=1300,t0=performance.now();
+  el.textContent=toFa(0)+suffix;
+  function tick(t){
+    var p=Math.max(0,Math.min((t-t0)/dur,1));
+    var eased=1-Math.pow(1-p,3);
+    el.textContent=toFa(Math.round(target*eased))+suffix;
+    if(p<1)requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
+}
+function initReveals(){
+  var reveals=document.querySelectorAll('.reveal');
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if(e.isIntersecting){e.target.classList.add('in-view');io.unobserve(e.target);}
+      });
+    },{threshold:.1,rootMargin:'0px 0px -30px 0px'});
+    reveals.forEach(function(el){io.observe(el);});
+  }else{
+    reveals.forEach(function(el){el.classList.add('in-view');});
+  }
+}
+function initCounters(){
+  var counters=document.querySelectorAll('.counter');
+  if('IntersectionObserver' in window){
+    var cio=new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if(e.isIntersecting){runCounter(e.target);cio.unobserve(e.target);}
+      });
+    },{threshold:.5});
+    counters.forEach(function(el){cio.observe(el);});
+  }
+}
+function schedule(fn){
+  if('requestIdleCallback' in window){requestIdleCallback(fn,{timeout:2000});}
+  else{window.addEventListener('load',function(){setTimeout(fn,100);});}
+}
+schedule(initReveals);
+schedule(initCounters);
+
+})();
+</script>
